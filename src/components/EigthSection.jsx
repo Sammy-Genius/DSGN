@@ -37,7 +37,7 @@ const EigthSection = () => {
                     <p className='text-3xl md:text-5xl lg:text-6xl text-[#4f6158] tracking-[3px] mt-[20px] md:mt-[25px]'>design or development, we'll</p>
                     <p className='text-3xl md:text-5xl lg:text-6xl text-[#4f6158] tracking-[3px] mt-[20px] md:mt-[25px]'>be happy to be the one.</p>
                 </motion.div>
-                <div className='w-full mt-[-10%] lg:mt-0 h-auto'>
+                <div className='w-full mt-[-30%] lg:mt-0 h-auto'>
                     <a className='text-3xl md:text-4xl lg:text-6xl text-white tracking-[3px] fill-up-two relative hover:text-[#ff9a90]' href="">Let's connect.</a>
                 </div>
             </div>
