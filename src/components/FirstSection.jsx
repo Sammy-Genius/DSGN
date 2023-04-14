@@ -32,7 +32,7 @@ const FirstSection = () => {
         </div>
         <div className="w-[90%] lg:w-[35%] h-full flex items-center lg:items-end justify-center">
           <div className="w-[90%] h-[50%] flex flex-col items-center justify-center md:mt-[30px] lg:mt-0">
-            <h1 className='text-white text-5xl text-center main-font md:hide'><span className="text-[#ff9a90] transparent hide md:block">&#9654;</span> You create</h1>
+            <h1 className='text-white text-5xl text-center main-font md:hide'><span className="text-[#ff9a90] transparent hide">&#9654;</span> You create</h1>
             <h1 className='text-[#ff9a90] transparent text-5xl text-center main-font md:hide fill'>Experiences</h1>
             <h1 className="text-white text-2xl sub-font hide md:block"> <span className="text-[#ff9a90]">&#9654;</span> Watch Showreel</h1>
             <p className="mt-[20px] block w-full lg:w-[80%] text-center lg:text-justify text-[#4f6158] leading-[30px] sub-font text-xl lg:text-base">DSGN is a digital design and development studio. We create unconventional websites and apps with cool custom graphics, videos photos and animations.</p>
