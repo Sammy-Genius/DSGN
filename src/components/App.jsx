@@ -108,8 +108,8 @@ function App() {
       </div>
 
       {/* MOUSE CUSTOM CURSOR */}
-      <div className='cursor' ref={cursorRef}></div>
-      <div className='cursor-two' ref={cursorTwoRef}></div>
+      <div className='cursor hide lg:block' ref={cursorRef}></div>
+      <div className='cursor-two hide lg:block' ref={cursorTwoRef}></div>
     </div>
   )
 }
