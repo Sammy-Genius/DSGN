@@ -415,11 +415,3 @@ body {
     z-index: 1000;
 }
 
-.logo:hover ~ .cursor {
-    transform: translate(-50%, -50%) scale(1.5);
-    opacity:.5
-}
-
-.logo:hover ~ .cursor-two {
-    opacity:0;
-}
